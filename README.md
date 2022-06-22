@@ -1,2 +1,5 @@
 # Complex Systems Modelling
-Giovanni Mizzi, Peter de Ford, Farooq Khan
+### Product Team
+- Farooq Khan, Product Architect
+- Dr Giovanni Mizzi, DevOps
+- Peter de Ford Gonzales, Front-End Developer
