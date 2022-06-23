@@ -14,6 +14,15 @@ Bayesian Networks allow us to integrate expert knowledge and data from multiple 
 
 Given this network we can make simulations, changing one variable and looking at what happens to the others. We can evaluate the effectiveness of public policies by predicting their effect; identifying the variables most likely involved in producing these effects.
 
+## MED-UCATION App
+MED-UCATION (Medellín-Education) helps policymakers understand the cause-effect relationships between the main variables involved in the quality of education of Medellín's highschools.
+
+The app uses a dataset of more than 50,000 students that performed the Saber 11 examinations between 2004 and 2014. Based on the dataset a Bayesian Network can be built, where you can include expert knowledge about the cause-effect relationships between variables.
+
+With the resulting network, you can simulate the outcome of new policies by changing the probability distribution of one variable and observing what happens with the probability distributions of the other variables.
+
+![my image](4.%20MED-Ucation%20App%20Visualisations/Visualisations%20Collage.png)
+
 ## A New Scientific Revolution in Policymaking?
 
 When sciences were born they were not even called sciences. Philosophers used to also be physicists, mathematicians, chemists but also politicians, writers and artists. With time, disciplines have separated, they got their own identity, and kept evolving as different, in most of the cases without transferring knowledge from one to the other. This has become the standard, the “traditional” approach in the sciences for a very long time. Many disciplines and entire fields of study have been born in such a context.
@@ -32,11 +41,3 @@ Choices  need  to  be  supported by data  about what  is  actually going  on, bu
 
 Data should be the means through which we understand the world and test our theories based on a scientific approach.  Data can help us to discover hidden possibilities, but then the goal is to be able to formulate theories and models that allow us to truly understand how these social systems work.
 
-## MED-UCATION App
-MED-UCATION (Medellín-Education) helps policymakers understand the cause-effect relationships between the main variables involved in the quality of education of Medellín's highschools.
-
-The app uses a dataset of more than 50,000 students that performed the Saber 11 examinations between 2004 and 2014. Based on the dataset a Bayesian Network can be built, where you can include expert knowledge about the cause-effect relationships between variables.
-
-With the resulting network, you can simulate the outcome of new policies by changing the probability distribution of one variable and observing what happens with the probability distributions of the other variables.
-
-![my image](4.%20MED-Ucation%20App%20Visualisations/Visualisations%20Collage.png)
