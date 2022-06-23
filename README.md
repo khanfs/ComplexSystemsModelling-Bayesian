@@ -38,3 +38,5 @@ MED-UCATION (Medellín-Education) helps policymakers understand the cause-effect
 The app uses a dataset of more than 50,000 students that performed the Saber 11 examinations between 2004 and 2014. Based on the dataset a Bayesian Network can be built, where you can include expert knowledge about the cause-effect relationships between variables.
 
 With the resulting network, you can simulate the outcome of new policies by changing the probability distribution of one variable and observing what happens with the probability distributions of the other variables.
+
+![my image](4. MED-Ucation App Visualisations/Visualisations Collage.png)
