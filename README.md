@@ -1,5 +1,5 @@
 # Complex Systems Modelling
-### DevOps Team
+### Development Team
 - Farooq Khan, Product Architect
 - Giovanni Mizzi, PhD, Lead Data Scientist
 - Peter de Ford Gonzales, Data Scientist
