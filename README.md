@@ -23,7 +23,7 @@ With the resulting network, you can simulate the outcome of new policies by chan
 
 [https://polymaths.shinyapps.io/med-ucation/](https://polymaths.shinyapps.io/med-ucation/)
 
-![my image](4.%20MED-Ucation%20App%20Visualisations/Visualisations%20Collage.png)
+![my image](images/Visualisations%20Collage.png)
 
 ## A New Scientific Revolution in Policymaking?
 
