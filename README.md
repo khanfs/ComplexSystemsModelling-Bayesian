@@ -1,4 +1,4 @@
-# Complex Systems Modelling
+# Complex Systems Modelling: Social Physics
 ### Development Team
 - Farooq Khan, Product Architect
 - Giovanni Mizzi, PhD, Lead Data Scientist
